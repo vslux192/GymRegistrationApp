@@ -1,0 +1,26 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Yash",
+      "lastName": "Bhande",
+      "email": "yashbhande@gmail.com",
+      "mobile": 9211786420,
+      "weight": 45,
+      "height": 7,
+      "bmi": 0.9183673469387755,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quaterly",
+      "important": [
+        "Toxic Fat reducation",
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-09-28T18:30:00.000Z",
+      "id": 2
+    }
+  ]
+}
